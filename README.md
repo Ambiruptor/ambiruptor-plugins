@@ -1,1 +1,1 @@
-# ambiruptor-plugins
+# Ambiruptor Plugins
